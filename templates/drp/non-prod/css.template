@@ -1357,13 +1357,6 @@
 	box-shadow: inset ${getValue(data, ["tokens.css", "tab-contained-container-bg", "box-shadow-1", "x"])}px ${getValue(data, ["tokens.css", "tab-contained-container-bg", "box-shadow-1", "y"])}px ${getValue(data, ["tokens.css", "tab-contained-container-bg", "box-shadow-1", "blur"])}px ${getValue(data, ["tokens.css", "tab-contained-container-bg", "box-shadow-1", "spread"])}px ${getValue(data, ["tokens.css", "tab-contained-container-bg", "box-shadow-1", "color"])};
 }
 
-.drp-tab-contained-container-bg:hover {
-	border-top-width: ${getValue(data, ["tokens.css", "tab-contained-container-bg-hover", "border-top-width"])}px;
-	border-right-width: ${getValue(data, ["tokens.css", "tab-contained-container-bg-hover", "border-right-width"])}px;
-	border-bottom-width: ${getValue(data, ["tokens.css", "tab-contained-container-bg-hover", "border-bottom-width"])}px;
-	border-left-width: ${getValue(data, ["tokens.css", "tab-contained-container-bg-hover", "border-left-width"])}px;
-}
-
 .drp-tab-contained-container-bg:first-child {
 	border-radius: ${getValue(data, ["tokens.css", "tab-contained-container-bg", "first-child", "border-radius-top-left"])}px ${getValue(data, ["tokens.css", "tab-contained-container-bg", "first-child", "border-radius-top-right"])}px ${getValue(data, ["tokens.css", "tab-contained-container-bg", "first-child", "border-radius-bottom-right"])}px ${getValue(data, ["tokens.css", "tab-contained-container-bg", "first-child", "border-radius-bottom-left"])}px;
 }
@@ -3630,8 +3623,8 @@
 .drp-button:focus-visible,
 .drp-iconButton:focus-visible,
 .drp-tab:focus-visible .drp-tab__label {
-	outline: ${getValue(data, ["tokens.css", "focus-ring", "outline-width"])}px ${getValue(data, ["tokens.css", "focus-ring", "outline-style"])} ${getValue(data, ["tokens.css", "focus-ring", "outline-color"])};
-	outline-offset: ${getValue(data, ["tokens.css", "focus-ring", "outline-offset"])}px;
+	outline: ${getValue(data, ["tokens.css", "focus-ring", "outline-width-md"])}px ${getValue(data, ["tokens.css", "focus-ring", "outline-style"])} ${getValue(data, ["tokens.css", "focus-ring", "outline-color"])};
+	outline-offset: ${getValue(data, ["tokens.css", "focus-ring", "outline-offset-md"])}px;
 }
 
 .drp-card-rounded {
