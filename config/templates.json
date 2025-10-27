@@ -12,6 +12,6 @@
   {
     "name": "AEC Studio JSON",
     "type": "json",
-    "path": "https://raw.githubusercontent.com/tekiondesign/tokenize-mappings/main/mappings/mercury/stg/css.template"
+    "path": "https://raw.githubusercontent.com/tekiondesign/tokenize-mappings/refs/heads/main/templates/aec-studio/json.template"
   }
 ]
