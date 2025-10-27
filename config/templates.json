@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GM DRP Production",
+    "type": "css",
+    "path": "https://raw.githubusercontent.com/tekiondesign/tokenize-mappings/main/mappings/drp/prod/css.template"
+  },
+  {
+    "name": "GM DRP Development",
+    "type": "css",
+    "path": "https://raw.githubusercontent.com/tekiondesign/tokenize-mappings/main/mappings/drp/non-prod/css.template"
+  },
+  {
+    "name": "AEC Studio JSON",
+    "type": "json",
+    "path": "https://raw.githubusercontent.com/tekiondesign/tokenize-mappings/main/mappings/mercury/stg/css.template"
+  }
+]
