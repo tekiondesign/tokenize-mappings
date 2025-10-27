@@ -2,12 +2,12 @@
   {
     "name": "GM DRP Production",
     "type": "css",
-    "path": "https://raw.githubusercontent.com/tekiondesign/tokenize-mappings/main/mappings/drp/prod/css.template"
+    "path": "https://raw.githubusercontent.com/tekiondesign/tokenize-mappings/refs/heads/main/templates/drp/prod/css.template"
   },
   {
     "name": "GM DRP Development",
     "type": "css",
-    "path": "https://raw.githubusercontent.com/tekiondesign/tokenize-mappings/main/mappings/drp/non-prod/css.template"
+    "path": "https://raw.githubusercontent.com/tekiondesign/tokenize-mappings/refs/heads/main/templates/drp/non-prod/css.template"
   },
   {
     "name": "AEC Studio JSON",
