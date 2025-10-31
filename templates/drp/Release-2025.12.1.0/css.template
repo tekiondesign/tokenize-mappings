@@ -226,7 +226,7 @@
 }
 
 .drp-button-contained-typography-small {
-	font: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " button-contained-typography-small", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "text-indent"])}px;
@@ -235,7 +235,7 @@
 }
 
 .drp-button-contained-typography-medium {
-	font: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " button-contained-typography-medium", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "line-height"])}px "${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "text-indent"])}px;
@@ -244,7 +244,7 @@
 }
 
 .drp-button-contained-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " button-contained-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "text-indent"])}px;
@@ -319,7 +319,7 @@
 }
 
 .drp-button-link-typography-small {
-	font: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-link-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " button-link-typography-small", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-link-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", "component-typography", "button-link-typography-small", "font-family"])}",
 	sans-serif;
 	text-transform:${getValue(data, ["tokens.css", "component-typography", "button-link-typography-small", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-small", "text-indent"])}px;
@@ -328,7 +328,7 @@
 }
 
 .drp-button-link-typography-medium {
-	font: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-link-typography-medium", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " button-link-typography-medium", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-link-typography-medium", "line-height"])}px "${getValue(data, ["tokens.css", "component-typography", "button-link-typography-medium", "font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-medium", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-medium", "text-indent"])}px;
@@ -337,7 +337,7 @@
 }
 
 .drp-button-link-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-link-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " button-link-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-link-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", "component-typography", "button-link-typography-large", "font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-large", "text-indent"])}px;
@@ -369,7 +369,7 @@
 }
 
 .drp-checkbox-typography-small {
-	font: ${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " checkbox-typography-small", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-small", "font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-small", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-small", "text-indent"])}px;
