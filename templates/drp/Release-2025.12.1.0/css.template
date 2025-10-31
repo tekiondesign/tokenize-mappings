@@ -44,7 +44,7 @@
 }
 
 .drp-assistive-text-typography {
-	font: ${getValue(data, ["tokens.css", "component-typography", "assistive-text-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "assistive-text-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "assistive-text-typography", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " assistive-text-typography", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "assistive-text-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "assistive-text-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "assistive-text-typography", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " assistive-text-typography", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "assistive-text-typography", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "assistive-text-typography", "text-indent"])}px;
@@ -77,7 +77,7 @@
 }
 
 .drp-avatar-typography-small {
-	font: ${getValue(data, ["tokens.css", "component-typography", "avatar-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "avatar-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "avatar-typography-small", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " avatar-typography-small", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "avatar-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "avatar-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "avatar-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " avatar-typography-small", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "avatar-typography-small", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "avatar-typography-small", "text-indent"])}px;
@@ -86,7 +86,7 @@
 }
 
 .drp-avatar-typography-medium {
-	font: ${getValue(data, ["tokens.css", "component-typography", "avatar-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "avatar-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "avatar-typography-medium", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " avatar-typography-medium", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "avatar-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "avatar-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "avatar-typography-medium", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " avatar-typography-medium", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "avatar-typography-medium", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "avatar-typography-medium", "text-indent"])}px;
@@ -95,7 +95,7 @@
 }
 
 .drp-avatar-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "avatar-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "avatar-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "avatar-typography-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " avatar-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "avatar-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "avatar-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "avatar-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " avatar-typography-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "avatar-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "avatar-typography-large", "text-indent"])}px;
@@ -127,7 +127,7 @@
 }
 
 .drp-badge-typography-medium {
-	font: ${getValue(data, ["tokens.css", "component-typography", "badge-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "badge-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "badge-typography-medium", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " badge-typography-medium", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "badge-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "badge-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "badge-typography-medium", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " badge-typography-medium", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "badge-typography-medium", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "badge-typography-medium", "text-indent"])}px;
@@ -136,7 +136,7 @@
 }
 
 .drp-badge-typography-small {
-	font: ${getValue(data, ["tokens.css", "component-typography", "badge-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "badge-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "badge-typography-small", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " badge-typography-small", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "badge-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "badge-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "badge-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " badge-typography-small", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "badge-typography-small", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "badge-typography-small", "text-indent"])}px;
@@ -161,7 +161,7 @@
 }
 
 .drp-banner-typography-title {
-	font: ${getValue(data, ["tokens.css", "component-typography", "banner-typography-title", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "banner-typography-title", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "banner-typography-title", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " banner-typography-title", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "banner-typography-title", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "banner-typography-title", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "banner-typography-title", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " banner-typography-title", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "banner-typography-title", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "banner-typography-title", "text-indent"])}px;
@@ -170,7 +170,7 @@
 }
 
 .drp-banner-typography-description {
-	font: ${getValue(data, ["tokens.css", "component-typography", "banner-typography-description", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "banner-typography-description", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "banner-typography-description", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " banner-typography-description", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "banner-typography-description", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "banner-typography-description", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "banner-typography-description", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " banner-typography-description", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "banner-typography-description", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "banner-typography-description", "text-indent"])}px;
@@ -184,7 +184,7 @@
 }
 
 .drp-breadcrumb-typography-small-default {
-	font: ${getValue(data, ["tokens.css", "component-typography", "breadcrumb-typography-small-default", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "breadcrumb-typography-small-default", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "breadcrumb-typography-small-default", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " breadcrumb-typography-small-default", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "breadcrumb-typography-small-default", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "breadcrumb-typography-small-default", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "breadcrumb-typography-small-default", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " breadcrumb-typography-small-default", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "breadcrumb-typography-small-default", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "breadcrumb-typography-small-default", "text-indent"])}px;
@@ -193,7 +193,7 @@
 }
 
 .drp-breadcrumb-typography-small-selected {
-	font: ${getValue(data, ["tokens.css", "component-typography", "breadcrumb-typography-small-selected", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "breadcrumb-typography-small-selected", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "breadcrumb-typography-small-selected", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " breadcrumb-typography-small-selected", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "breadcrumb-typography-small-selected", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "breadcrumb-typography-small-selected", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "breadcrumb-typography-small-selected", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " breadcrumb-typography-small-selected", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "breadcrumb-typography-small-selected", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "breadcrumb-typography-small-selected", "text-indent"])}px;
@@ -226,7 +226,7 @@
 }
 
 .drp-button-contained-typography-small {
-	font: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " button-contained-typography-small", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " button-contained-typography-small", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "text-indent"])}px;
@@ -235,7 +235,7 @@
 }
 
 .drp-button-contained-typography-medium {
-	font: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " button-contained-typography-medium", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " button-contained-typography-medium", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "text-indent"])}px;
@@ -244,7 +244,7 @@
 }
 
 .drp-button-contained-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " button-contained-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " button-contained-typography-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "text-indent"])}px;
@@ -319,7 +319,7 @@
 }
 
 .drp-button-link-typography-small {
-	font: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-link-typography-small", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " button-link-typography-small", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-link-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " button-link-typography-small", " font-family"])}",
 	sans-serif;
 	text-transform:${getValue(data, ["tokens.css", "component-typography", "button-link-typography-small", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-small", "text-indent"])}px;
@@ -328,7 +328,7 @@
 }
 
 .drp-button-link-typography-medium {
-	font: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-link-typography-medium", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " button-link-typography-medium", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-link-typography-medium", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " button-link-typography-medium", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-medium", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-medium", "text-indent"])}px;
@@ -337,7 +337,7 @@
 }
 
 .drp-button-link-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-link-typography-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " button-link-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-link-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " button-link-typography-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "button-link-typography-large", "text-indent"])}px;
@@ -369,7 +369,7 @@
 }
 
 .drp-checkbox-typography-small {
-	font: ${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-small", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " checkbox-typography-small", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " checkbox-typography-small", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-small", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-small", "text-indent"])}px;
@@ -378,7 +378,7 @@
 }
 
 .drp-checkbox-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " checkbox-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " checkbox-typography-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "checkbox-typography-large", "text-indent"])}px;
@@ -411,7 +411,7 @@
 }
 
 .drp-chip-selectable-typography-small {
-	font: ${getValue(data, ["tokens.css", "component-typography", "chip-selectable-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "chip-selectable-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "chip-selectable-typography-small", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " chip-selectable-typography-small", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "chip-selectable-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "chip-selectable-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "chip-selectable-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " chip-selectable-typography-small", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "chip-selectable-typography-small", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "chip-selectable-typography-small", "text-indent"])}px;
@@ -420,7 +420,7 @@
 }
 
 .drp-chip-selectable-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "chip-selectable-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "chip-selectable-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "chip-selectable-typography-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " chip-selectable-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "chip-selectable-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "chip-selectable-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "chip-selectable-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " chip-selectable-typography-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "chip-selectable-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "chip-selectable-typography-large", "text-indent"])}px;
@@ -453,7 +453,7 @@
 }
 
 .drp-chip-information-typography-small {
-	font: ${getValue(data, ["tokens.css", "component-typography", "chip-information-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "chip-information-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "chip-information-typography-small", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " chip-information-typography-small", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "chip-information-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "chip-information-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "chip-information-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " chip-information-typography-small", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "chip-information-typography-small", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "chip-information-typography-small", "text-indent"])}px;
@@ -462,7 +462,7 @@
 }
 
 .drp-chip-information-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "chip-information-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "chip-information-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "chip-information-typography-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " chip-information-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "chip-information-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "chip-information-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "chip-information-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " chip-information-typography-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "chip-information-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "chip-information-typography-large", "text-indent"])}px;
@@ -477,7 +477,7 @@
 }
 
 .drp-chip-plain-typography-small {
-	font: ${getValue(data, ["tokens.css", "component-typography", "chip-plain-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "chip-plain-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "chip-plain-typography-small", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " chip-plain-typography-small", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "chip-plain-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "chip-plain-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "chip-plain-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " chip-plain-typography-small", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "chip-plain-typography-small", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "chip-plain-typography-small", "text-indent"])}px;
@@ -486,7 +486,7 @@
 }
 
 .drp-chip-plain-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "chip-plain-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "chip-plain-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "chip-plain-typography-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " chip-plain-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "chip-plain-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "chip-plain-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "chip-plain-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " chip-plain-typography-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "chip-plain-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "chip-plain-typography-large", "text-indent"])}px;
@@ -519,7 +519,7 @@
 }
 
 .drp-chip-dismissable-typography-small {
-	font: ${getValue(data, ["tokens.css", "component-typography", "chip-dismissible-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "chip-dismissible-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "chip-dismissible-typography-small", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " chip-dismissible-typography-small", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "chip-dismissible-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "chip-dismissible-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "chip-dismissible-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " chip-dismissible-typography-small", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "chip-dismissible-typography-small", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "chip-dismissible-typography-small", "text-indent"])}px;
@@ -528,7 +528,7 @@
 }
 
 .drp-chip-dismissable-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "chip-dismissible-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "chip-dismissible-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "chip-dismissible-typography-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " chip-dismissible-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "chip-dismissible-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "chip-dismissible-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "chip-dismissible-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " chip-dismissible-typography-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "chip-dismissible-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "chip-dismissible-typography-small", "text-indent"])};
@@ -579,7 +579,7 @@
 }
 
 .drp-form-control-typography-description {
-	font: ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-description", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-description", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "form-control-typography-description", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " form-control-typography-description", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-description", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-description", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "form-control-typography-description", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " form-control-typography-description", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-description", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-description", "text-indent"])}px;
@@ -588,7 +588,7 @@
 }
 
 .drp-form-control-typography-small {
-	font: ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "form-control-typography-small", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " form-control-typography-small", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "form-control-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " form-control-typography-small", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-small", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-small", "text-indent"])}px;
@@ -597,7 +597,7 @@
 }
 
 .drp-form-control-typography-medium {
-	font: ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "form-control-typography-medium", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " form-control-typography-medium", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "form-control-typography-medium", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " form-control-typography-medium", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-medium", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-medium", "text-indent"])}px;
@@ -606,7 +606,7 @@
 }
 
 .drp-form-control-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "form-control-typography-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " form-control-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "form-control-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " form-control-typography-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "form-control-typography-large", "text-indent"])}px;
@@ -648,7 +648,7 @@
 }
 
 .drp-input-standard-outlined-typography {
-	font: ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-typography", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " input-standard-outlined-typography", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-typography", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " input-standard-outlined-typography", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-typography", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-typography", "text-indent"])}px;
@@ -657,7 +657,7 @@
 }
 
 .drp-input-standard-outlined-typography-label {
-	font: ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-typography-label", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-typography-label", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-typography-label", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " input-standard-outlined-typography-label", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-typography-label", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-typography-label", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-typography-label", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " input-standard-outlined-typography-label", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-typography-label", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-typography-label", "text-indent"])}px;
@@ -666,7 +666,7 @@
 }
 
 .drp-input-standard-outlined-prefix-typography {
-	font: ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-prefix-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-prefix-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-prefix-typography", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " input-standard-outlined-prefix-typography", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-prefix-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-prefix-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-prefix-typography", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " input-standard-outlined-prefix-typography", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-prefix-typography", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-prefix-typography", "text-indent"])}px;
@@ -715,7 +715,7 @@
 }
 
 .drp-input-standard-outlined-suffix-typography {
-	font: ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-suffix-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-suffix-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-suffix-typography", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " input-standard-outlined-suffix-typography", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-suffix-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-suffix-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-suffix-typography", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " input-standard-outlined-suffix-typography", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-suffix-typography", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "input-standard-outlined-suffix-typography", "text-indent"])}px;
@@ -757,7 +757,7 @@
 }
 
 .drp-input-standard-filled-typography {
-	font: ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-typography", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " input-standard-filled-typography", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-typography", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " input-standard-filled-typography", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-typography", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-typography", "letter-spacing"])}px;
@@ -766,7 +766,7 @@
 }
 
 .drp-input-standard-filled-typography-label {
-	font: ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-typography-label", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-typography-label", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-typography-label", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " input-standard-filled-typography-label", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-typography-label", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-typography-label", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-typography-label", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " input-standard-filled-typography-label", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-typography-label", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-typography-label", "text-indent"])}px;
@@ -790,7 +790,7 @@
 }
 
 .drp-input-standard-filled-prefix-typography {
-	font: ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-prefix-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-prefix-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-prefix-typography", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " input-standard-filled-prefix-typography", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-prefix-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-prefix-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-prefix-typography", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " input-standard-filled-prefix-typography", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-prefix-typography", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-prefix-typography", "text-indent"])}px;
@@ -814,7 +814,7 @@
 }
 
 .drp-input-standard-filled-suffix-typography {
-	font: ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-suffix-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-suffix-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-suffix-typography", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " input-standard-filled-suffix-typography", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-suffix-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-suffix-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-suffix-typography", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " input-standard-filled-suffix-typography", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-suffix-typography", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "input-standard-filled-suffix-typography", "text-indent"])}px;
@@ -861,7 +861,7 @@
 }
 
 .drp-input-material-outlined-typography {
-	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-typography", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " input-material-outlined-typography", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-typography", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " input-material-outlined-typography", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-typography", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-typography", "text-indent"])}px;
@@ -870,7 +870,7 @@
 }
 
 .drp-input-material-outlined-typography-label {
-	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-typography-label", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-typography-label", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-typography-label", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " input-material-outlined-typography-label", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-typography-label", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-typography-label", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-typography-label", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " input-material-outlined-typography-label", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-typography-label", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-typography-label", "text-indent"])}px;
@@ -894,7 +894,7 @@
 }
 
 .drp-input-material-outlined-prefix-typography {
-	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-prefix-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-prefix-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-prefix-typography", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " input-material-outlined-prefix-typography", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-prefix-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-prefix-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-prefix-typography", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " input-material-outlined-prefix-typography", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-prefix-typography", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-prefix-typography", "text-indent"])}px;
@@ -918,7 +918,7 @@
 }
 
 .drp-input-material-outlined-suffix-typography {
-	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-suffix-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-suffix-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-suffix-typography", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " input-material-outlined-suffix-typography", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-suffix-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-suffix-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-suffix-typography", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " input-material-outlined-suffix-typography", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-suffix-typography", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "input-material-outlined-suffix-typography", "text-indent"])}px;
@@ -968,7 +968,7 @@
 }
 
 .drp-input-material-filled-typography {
-	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-filled-typography", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " input-material-filled-typography", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-filled-typography", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " input-material-filled-typography", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-typography", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-typography", "text-indent"])}px;
@@ -977,7 +977,7 @@
 }
 
 .drp-input-material-filled-typography-label {
-	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-typography-label", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-typography-label", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-filled-typography-label", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " input-material-filled-typography-label", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-typography-label", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-typography-label", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-filled-typography-label", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " input-material-filled-typography-label", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-typography-label", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-typography-label", "text-indent"])}px;
@@ -1001,7 +1001,7 @@
 }
 
 .drp-input-material-filled-prefix-typography {
-	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-prefix-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-prefix-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-filled-prefix-typography", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " input-material-filled-prefix-typography", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-prefix-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-prefix-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-filled-prefix-typography", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " input-material-filled-prefix-typography", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-prefix-typography", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-prefix-typography", "text-indent"])}px;
@@ -1025,7 +1025,7 @@
 }
 
 .drp-input-material-filled-suffix-typography {
-	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-suffix-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-suffix-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-filled-suffix-typography", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " input-material-filled-suffix-typography", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-suffix-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-suffix-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-filled-suffix-typography", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " input-material-filled-suffix-typography", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-suffix-typography", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "input-material-filled-suffix-typography", "text-indent"])}px;
@@ -1067,7 +1067,7 @@
 }
 
 .drp-input-material-plain-typography {
-	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-plain-typography", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " input-material-plain-typography", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-plain-typography", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " input-material-plain-typography", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-typography", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-typography", "text-indent"])}px;
@@ -1076,7 +1076,7 @@
 }
 
 .drp-input-material-plain-typography-label {
-	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-typography-label", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-typography-label", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-plain-typography-label", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " input-material-plain-typography-label", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-typography-label", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-typography-label", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-plain-typography-label", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " input-material-plain-typography-label", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-typography-label", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-typography-label", "text-indent"])}px;
@@ -1100,7 +1100,7 @@
 }
 
 .drp-input-material-plain-prefix-typography {
-	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-prefix-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-prefix-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-plain-prefix-typography", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " input-material-plain-prefix-typography", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-prefix-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-prefix-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-plain-prefix-typography", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " input-material-plain-prefix-typography", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-prefix-typography", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-prefix-typography", "text-indent"])}px;
@@ -1124,7 +1124,7 @@
 }
 
 .drp-input-material-plain-suffix-typography {
-	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-suffix-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-suffix-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-plain-suffix-typography", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " input-material-plain-suffix-typography", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-suffix-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-suffix-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "input-material-plain-suffix-typography", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " input-material-plain-suffix-typography", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-suffix-typography", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "input-material-plain-suffix-typography", "text-indent"])}px;
@@ -1161,7 +1161,7 @@
 }
 
 .drp-link-typography-small {
-	font: ${getValue(data, ["tokens.css", "component-typography", "link-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "link-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "link-typography-small", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " link-typography-small", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "link-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "link-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "link-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " link-typography-small", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "link-typography-small", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "link-typography-small", "text-indent"])}px;
@@ -1170,7 +1170,7 @@
 }
 
 .drp-link-typography-medium {
-	font: ${getValue(data, ["tokens.css", "component-typography", "link-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "link-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "link-typography-medium", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " link-typography-medium", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "link-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "link-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "link-typography-medium", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " link-typography-medium", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "link-typography-medium", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "link-typography-medium", "text-indent"])}px;
@@ -1179,7 +1179,7 @@
 }
 
 .drp-link-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "link-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "link-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "link-typography-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " link-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "link-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "link-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "link-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " link-typography-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "link-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "link-typography-large", "text-indent"])}px;
@@ -1218,7 +1218,7 @@
 }
 
 .drp-list-item-typography-default {
-	font: ${getValue(data, ["tokens.css", "component-typography", "list-item-typography-default", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "list-item-typography-default", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "list-item-typography-default", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " list-item-typography-default", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "list-item-typography-default", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "list-item-typography-default", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "list-item-typography-default", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " list-item-typography-default", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1227,7 +1227,7 @@
 }
 
 .drp-list-item-typography-selected {
-	font: ${getValue(data, ["tokens.css", "component-typography", "list-item-typography-selected", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "list-item-typography-selected", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "list-item-typography-selected", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " list-item-typography-selected", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "list-item-typography-selected", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "list-item-typography-selected", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "list-item-typography-selected", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " list-item-typography-selected", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "list-item-typography-selected", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "list-item-typography-selected", "text-indent"])}px;
@@ -1236,7 +1236,7 @@
 }
 
 .drp-list-item-typography-description {
-	font: ${getValue(data, ["tokens.css", "component-typography", "list-item-typography-description", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "list-item-typography-description", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "list-item-typography-description", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " list-item-typography-description", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "list-item-typography-description", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "list-item-typography-description", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "list-item-typography-description", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " list-item-typography-description", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "list-item-typography-description", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "list-item-typography-description", "text-indent"])}px;
@@ -1250,7 +1250,7 @@
 }
 
 .drp-notification-typography-title {
-	font: ${getValue(data, ["tokens.css", "component-typography", "notification-typography-title", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "notification-typography-title", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "notification-typography-title", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " notification-typography-title", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "notification-typography-title", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "notification-typography-title", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "notification-typography-title", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " notification-typography-title", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "notification-typography-title", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "notification-typography-title", "text-indent"])}px;
@@ -1259,7 +1259,7 @@
 }
 
 .drp-notification-typography-description {
-	font: ${getValue(data, ["tokens.css", "component-typography", "notification-typography-description", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "notification-typography-description", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "notification-typography-description", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " notification-typography-description", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "notification-typography-description", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "notification-typography-description", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "notification-typography-description", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " notification-typography-description", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "notification-typography-description", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "notification-typography-description", "text-indent"])}px;
@@ -1268,7 +1268,7 @@
 }
 
 .drp-radio-typography-small {
-	font: ${getValue(data, ["tokens.css", "component-typography", "radio-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "radio-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "radio-typography-small", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " radio-typography-small", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "radio-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "radio-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "radio-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " radio-typography-small", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "radio-typography-small", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "radio-typography-small", "text-indent"])}px;
@@ -1277,7 +1277,7 @@
 }
 
 .drp-radio-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "radio-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "radio-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "radio-typography-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " radio-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "radio-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "radio-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "radio-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " radio-typography-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "radio-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "radio-typography-large", "text-indent"])}px;
@@ -1286,7 +1286,7 @@
 }
 
 .drp-slider-typography-title {
-	font: ${getValue(data, ["tokens.css", "component-typography", "slider-typography-title", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "slider-typography-title", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "slider-typography-title", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " slider-typography-title", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "slider-typography-title", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "slider-typography-title", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "slider-typography-title", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " slider-typography-title", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "slider-typography-title", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "slider-typography-title", "text-indent"])}px;
@@ -1295,7 +1295,7 @@
 }
 
 .drp-slider-typography-range {
-	font: ${getValue(data, ["tokens.css", "component-typography", "slider-typography-range", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "slider-typography-range", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "slider-typography-range", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " slider-typography-range", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "slider-typography-range", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "slider-typography-range", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "slider-typography-range", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " slider-typography-range", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "slider-typography-range", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "slider-typography-range", "text-indent"])}px;
@@ -1304,7 +1304,7 @@
 }
 
 .drp-slider-typography-input {
-	font: ${getValue(data, ["tokens.css", "component-typography", "slider-typography-input", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "slider-typography-input", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "slider-typography-input", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " slider-typography-input", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "slider-typography-input", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "slider-typography-input", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "slider-typography-input", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " slider-typography-input", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "slider-typography-input", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "slider-typography-input", "text-indent"])}px;
@@ -1321,7 +1321,7 @@
 }
 
 .drp-snackbar-typography-title {
-	font: ${getValue(data, ["tokens.css", "component-typography", "snackbar-typography-title", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "snackbar-typography-title", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "snackbar-typography-title", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " snackbar-typography-title", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "snackbar-typography-title", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "snackbar-typography-title", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "snackbar-typography-title", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " snackbar-typography-title", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "snackbar-typography-title", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "snackbar-typography-title", "text-indent"])}px;
@@ -1330,7 +1330,7 @@
 }
 
 .drp-switch-typography-small {
-	font: ${getValue(data, ["tokens.css", "component-typography", "switch-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "switch-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "switch-typography-small", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " switch-typography-small", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "switch-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "switch-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "switch-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " switch-typography-small", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "switch-typography-small", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "switch-typography-small", "text-indent"])}px;
@@ -1339,7 +1339,7 @@
 }
 
 .drp-switch-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "switch-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "switch-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "switch-typography-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " switch-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "switch-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "switch-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "switch-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " switch-typography-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "switch-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "switch-typography-large", "text-indent"])}px;
@@ -1380,7 +1380,7 @@
 }
 
 .drp-tab-contained-typography-medium {
-	font: ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-medium", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " tab-contained-typography-medium", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-medium", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " tab-contained-typography-medium", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-medium", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-medium", "text-indent"])}px;
@@ -1389,7 +1389,7 @@
 }
 
 .drp-tab-contained-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " tab-contained-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " tab-contained-typography-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-large", "text-indent"])}px;
@@ -1398,7 +1398,7 @@
 }
 
 .drp-tab-contained-typography-selected-medium {
-	font: ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-selected-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-selected-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-selected-medium", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " tab-contained-typography-selected-medium", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-selected-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-selected-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-selected-medium", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " tab-contained-typography-selected-medium", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-selected-medium", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-selected-medium", "text-indent"])}px;
@@ -1407,7 +1407,7 @@
 }
 
 .drp-tab-contained-typography-selected-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-selected-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-selected-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-selected-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " tab-contained-typography-selected-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-selected-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-selected-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-selected-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " tab-contained-typography-selected-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-selected-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "tab-contained-typography-selected-large", "text-indent"])}px;
@@ -1451,7 +1451,7 @@
 }
 
 .drp-tab-segment-typography-medium {
-	font: ${getValue(data, ["tokens.css", "component-typography", "tab-segment-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-segment-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-segment-typography-medium", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " tab-segment-typography-medium", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "tab-segment-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-segment-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-segment-typography-medium", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " tab-segment-typography-medium", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "tab-segment-typography-medium", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "tab-segment-typography-medium", "text-indent"])}px;
@@ -1460,7 +1460,7 @@
 }
 
 .drp-tab-segment-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "tab-segment-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-segment-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-segment-typography-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " tab-segment-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "tab-segment-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-segment-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-segment-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " tab-segment-typography-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "tab-segment-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "tab-segment-typography-large", "text-indent"])}px;
@@ -1504,7 +1504,7 @@
 }
 
 .drp-tab-stacked-typography-medium {
-	font: ${getValue(data, ["tokens.css", "component-typography", "tab-stacked-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-stacked-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-stacked-typography-medium", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " tab-stacked-typography-medium", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "tab-stacked-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-stacked-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-stacked-typography-medium", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " tab-stacked-typography-medium", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "tab-stacked-typography-medium", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "tab-stacked-typography-medium", "text-indent"])}px;
@@ -1513,7 +1513,7 @@
 }
 
 .drp-tab-stacked-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "tab-stacked-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-stacked-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-stacked-typography-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " tab-stacked-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "tab-stacked-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-stacked-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-stacked-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " tab-stacked-typography-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "tab-stacked-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "tab-stacked-typography-large", "text-indent"])}px;
@@ -1567,7 +1567,7 @@
 }
 
 .drp-tab-underlined-inset-typography-medium {
-	font: ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inset-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inset-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inset-typography-medium", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " tab-underlined-inset-typography-medium", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inset-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inset-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inset-typography-medium", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " tab-underlined-inset-typography-medium", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inset-typography-medium", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inset-typography-medium", "text-indent"])}px;
@@ -1576,7 +1576,7 @@
 }
 
 .drp-tab-underlined-inset-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inset-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inset-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inset-typography-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " tab-underlined-inset-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inset-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inset-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inset-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " tab-underlined-inset-typography-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inset-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inset-typography-large", "text-indent"])}px;
@@ -1621,7 +1621,7 @@
 }
 
 .drp-tab-underlined-inside-typography-medium {
-	font: ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inside-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inside-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inside-typography-medium", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " tab-underlined-inside-typography-medium", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inside-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inside-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inside-typography-medium", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " tab-underlined-inside-typography-medium", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inside-typography-medium", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inside-typography-medium", "text-indent"])}px;
@@ -1630,7 +1630,7 @@
 }
 
 .drp-tab-underlined-inside-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inside-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inside-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inside-typography-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " tab-underlined-inside-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inside-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inside-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inside-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " tab-underlined-inside-typography-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inside-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "tab-underlined-inside-typography-large", "text-indent"])}px;
@@ -1677,7 +1677,7 @@
 }
 
 .drp-tab-vertical-typography-medium {
-	font: ${getValue(data, ["tokens.css", "component-typography", "tab-vertical-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-vertical-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-vertical-typography-medium", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " tab-vertical-typography-medium", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "tab-vertical-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-vertical-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-vertical-typography-medium", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " tab-vertical-typography-medium", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "tab-vertical-typography-medium", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "tab-vertical-typography-medium", "text-indent"])}px;
@@ -1686,7 +1686,7 @@
 }
 
 .drp-tab-vertical-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "tab-vertical-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-vertical-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-vertical-typography-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " tab-vertical-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "tab-vertical-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tab-vertical-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tab-vertical-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " tab-vertical-typography-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "tab-vertical-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "tab-vertical-typography-large", "text-indent"])}px;
@@ -1724,7 +1724,7 @@
 }
 
 .drp-toggle-group-typography-small {
-	font: ${getValue(data, ["tokens.css", "component-typography", "toggle-group-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "toggle-group-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "toggle-group-typography-small", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " toggle-group-typography-small", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "toggle-group-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "toggle-group-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "toggle-group-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " toggle-group-typography-small", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "toggle-group-typography-small", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "toggle-group-typography-small", "text-indent"])}px;
@@ -1733,7 +1733,7 @@
 }
 
 .drp-toggle-group-typography-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "toggle-group-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "toggle-group-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "toggle-group-typography-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " toggle-group-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "toggle-group-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "toggle-group-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "toggle-group-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " toggle-group-typography-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "toggle-group-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "toggle-group-typography-large", "text-indent"])}px;
@@ -1763,7 +1763,7 @@
 }
 
 .drp-tooltip-typography {
-	font: ${getValue(data, ["tokens.css", "component-typography", "tooltip-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tooltip-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tooltip-typography", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " tooltip-typography", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "tooltip-typography", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tooltip-typography", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tooltip-typography", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " tooltip-typography", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "tooltip-typography", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "tooltip-typography", "text-indent"])}px;
@@ -1772,7 +1772,7 @@
 }
 
 .drp-tooltip-typography-title {
-	font: ${getValue(data, ["tokens.css", "component-typography", "tooltip-typography-title", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tooltip-typography-title", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tooltip-typography-title", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " tooltip-typography-title", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "tooltip-typography-title", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "tooltip-typography-title", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "tooltip-typography-title", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " tooltip-typography-title", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "tooltip-typography-title", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "tooltip-typography-title", "text-indent"])}px;
@@ -1781,7 +1781,7 @@
 }
 
 .drp-typography-body-1-light {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-light", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-light", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-light", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-1-light", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-light", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-light", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-light", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-1-light", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1790,7 +1790,7 @@
 }
 
 .drp-typography-body-1-regular {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-1-regular", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-1-regular", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1799,7 +1799,7 @@
 }
 
 .drp-typography-body-1-regular-italic {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-regular-italic", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-regular-italic", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-regular-italic", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-1-regular-italic", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-regular-italic", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-regular-italic", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-regular-italic", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-1-regular-italic", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1809,7 +1809,7 @@
 }
 
 .drp-typography-body-1-medium {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-medium", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-medium", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-1-medium", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-medium", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-medium", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-1-medium", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1818,7 +1818,7 @@
 }
 
 .drp-typography-body-1-bold {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-bold", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-1-bold", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-bold", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-1-bold", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1827,7 +1827,7 @@
 }
 
 .drp-typography-body-1-extra-bold {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-extra-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-extra-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-extra-bold", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-1-extra-bold", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-extra-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-extra-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-extra-bold", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-1-extra-bold", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1836,7 +1836,7 @@
 }
 
 .drp-typography-body-1-link {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-link", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-link", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-link", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-1-link", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-link", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-link", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-link", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-1-link", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1845,7 +1845,7 @@
 }
 
 .drp-typography-body-1-all-caps {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-all-caps", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-all-caps", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-all-caps", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-1-all-caps", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-all-caps", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-all-caps", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-all-caps", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-1-all-caps", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "base-typography", "body-1-all-caps", "text-transform"])};
 	text-indent: 0px;
@@ -1854,7 +1854,7 @@
 }
 
 .drp-typography-body-1-list {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-1-regular", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-1-regular", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1863,7 +1863,7 @@
 }
 
 .drp-typography-body-2-light {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-2-light", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-2-light", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-2-light", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-2-light", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-2-light", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-2-light", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-2-light", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-2-light", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1872,7 +1872,7 @@
 }
 
 .drp-typography-body-2-regular {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-2-regular", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-2-regular", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-2-regular", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-2-regular", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-2-regular", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-2-regular", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-2-regular", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-2-regular", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1881,7 +1881,7 @@
 }
 
 .drp-typography-body-2-regular-italic {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-2-regular-italic", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-2-regular-italic", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-2-regular-italic", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-2-regular-italic", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-2-regular-italic", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-2-regular-italic", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-2-regular-italic", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-2-regular-italic", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1891,7 +1891,7 @@
 }
 
 .drp-typography-body-2-medium {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-2-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-2-medium", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-2-medium", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-2-medium", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-2-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-2-medium", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-2-medium", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-2-medium", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1900,7 +1900,7 @@
 }
 
 .drp-typography-body-2-bold {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-2-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-2-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-2-bold", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-2-bold", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-2-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-2-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-2-bold", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-2-bold", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1909,7 +1909,7 @@
 }
 
 .drp-typography-body-2-extra-bold {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-2-extra-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-2-extra-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-2-extra-bold", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-2-extra-bold", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-2-extra-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-2-extra-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-2-extra-bold", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-2-extra-bold", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1918,7 +1918,7 @@
 }
 
 .drp-typography-body-2-link {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-2-link", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-2-link", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-2-link", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-2-link", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-2-link", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-2-link", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-2-link", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-2-link", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1927,7 +1927,7 @@
 }
 
 .drp-typography-body-2-all-caps {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-2-all-caps", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-2-all-caps", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-2-all-caps", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-2-all-caps", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-2-all-caps", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-2-all-caps", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-2-all-caps", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-2-all-caps", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "base-typography", "body-2-all-caps", "text-transform"])};
 	text-indent: 0px;
@@ -1936,7 +1936,7 @@
 }
 
 .drp-typography-body-2-list {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-2-regular", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-2-regular", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-2-regular", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-2-regular", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-2-regular", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-2-regular", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-2-regular", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-2-regular", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1945,7 +1945,7 @@
 }
 
 .drp-typography-body-3-light {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-3-light", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-3-light", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-3-light", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-3-light", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-3-light", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-3-light", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-3-light", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-3-light", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1954,7 +1954,7 @@
 }
 
 .drp-typography-body-3-regular {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-3-regular", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-3-regular", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-3-regular", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-3-regular", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-3-regular", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-3-regular", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-3-regular", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-3-regular", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1963,7 +1963,7 @@
 }
 
 .drp-typography-body-3-regular-italic {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-3-regular-italic", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-3-regular-italic", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-3-regular-italic", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-3-regular-italic", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-3-regular-italic", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-3-regular-italic", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-3-regular-italic", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-3-regular-italic", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1973,7 +1973,7 @@
 }
 
 .drp-typography-body-3-medium {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-3-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-3-medium", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-3-medium", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-3-medium", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-3-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-3-medium", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-3-medium", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-3-medium", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1982,7 +1982,7 @@
 }
 
 .drp-typography-body-3-bold {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-3-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-3-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-3-bold", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-3-bold", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-3-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-3-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-3-bold", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-3-bold", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -1991,7 +1991,7 @@
 }
 
 .drp-typography-body-3-extra-bold {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-3-extra-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-3-extra-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-3-extra-bold", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-3-extra-bold", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-3-extra-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-3-extra-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-3-extra-bold", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-3-extra-bold", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -2000,7 +2000,7 @@
 }
 
 .drp-typography-body-3-link {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-3-link", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-3-link", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-3-link", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-3-link", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-3-link", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-3-link", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-3-link", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-3-link", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0;
@@ -2009,7 +2009,7 @@
 }
 
 .drp-typography-body-3-all-caps {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-3-all-caps", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-3-all-caps", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-3-all-caps", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-3-all-caps", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-3-all-caps", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-3-all-caps", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-3-all-caps", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-3-all-caps", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "base-typography", "body-3-all-caps", "text-transform"])};
 	text-indent: 0;
@@ -2018,7 +2018,7 @@
 }
 
 .drp-typography-body-3-list {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-3-regular", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-3-regular", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-3-regular", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-3-regular", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-3-regular", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-3-regular", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-3-regular", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-3-regular", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0;
@@ -2027,7 +2027,7 @@
 }
 
 .drp-typography-body-xl-regular {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-1-regular", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-1-regular", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0px;
@@ -2036,7 +2036,7 @@
 }
 
 .drp-typography-body-xl-bold {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-1-regular", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-1-regular", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0;
@@ -2045,7 +2045,7 @@
 }
 
 .drp-typography-body-xl-link {
-	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " body-1-regular", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "body-1-regular", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " body-1-regular", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0;
@@ -2054,7 +2054,7 @@
 }
 
 .drp-typography-button-large {
-	font: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " button-contained-typography-large", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " button-contained-typography-large", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-large", "text-indent"])}px;
@@ -2063,7 +2063,7 @@
 }
 
 .drp-typography-button-medium {
-	font: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " button-contained-typography-medium", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " button-contained-typography-medium", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-medium", "text-indent"])}px;
@@ -2072,7 +2072,7 @@
 }
 
 .drp-typography-button-small {
-	font: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "line-height"])}px "${getValue(data, [" tokens.css", " component-typography", " button-contained-typography-small", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "font-weight-dev"])} ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "font-size"])}px/${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "line-height"])}px "${getValue(data, ["tokens.css", " component-typography", " button-contained-typography-small", " font-family"])}",
 	sans-serif;
 	text-transform: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "text-transform"])};
 	text-indent: ${getValue(data, ["tokens.css", "component-typography", "button-contained-typography-small", "text-indent"])}px;
@@ -2081,7 +2081,7 @@
 }
 
 .drp-typography-heading-1 {
-	font: ${getValue(data, ["tokens.css", "base-typography", "headline-1", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-1", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-1", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-1", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "headline-1", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-1", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-1", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-1", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0;
@@ -2090,7 +2090,7 @@
 }
 
 .drp-typography-heading-1-bold {
-	font: ${getValue(data, ["tokens.css", "base-typography", "headline-1-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-1-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-1-bold", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-1-bold", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "headline-1-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-1-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-1-bold", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-1-bold", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0;
@@ -2099,7 +2099,7 @@
 }
 
 .drp-typography-heading-2 {
-	font: ${getValue(data, ["tokens.css", "base-typography", "headline-2", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-2", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-2", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-2", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "headline-2", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-2", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-2", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-2", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0;
@@ -2108,7 +2108,7 @@
 }
 
 .drp-typography-heading-2-bold {
-	font: ${getValue(data, ["tokens.css", "base-typography", "headline-2-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-2-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-2-bold", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-2-bold", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "headline-2-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-2-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-2-bold", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-2-bold", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0;
@@ -2117,7 +2117,7 @@
 }
 
 .drp-typography-heading-3 {
-	font: ${getValue(data, ["tokens.css", "base-typography", "headline-3", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-3", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-3", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-3", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "headline-3", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-3", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-3", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-3", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0;
@@ -2126,7 +2126,7 @@
 }
 
 .drp-typography-heading-3-bold {
-	font: ${getValue(data, ["tokens.css", "base-typography", "headline-3-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-3-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-3-bold", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-3-bold", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "headline-3-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-3-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-3-bold", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-3-bold", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0;
@@ -2135,7 +2135,7 @@
 }
 
 .drp-typography-heading-4 {
-	font: ${getValue(data, ["tokens.css", "base-typography", "headline-4", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-4", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-4", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-4", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "headline-4", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-4", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-4", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-4", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0;
@@ -2144,7 +2144,7 @@
 }
 
 .drp-typography-heading-4-bold {
-	font: ${getValue(data, ["tokens.css", "base-typography", "headline-4-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-4-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-4-bold", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-4-bold", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "headline-4-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-4-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-4-bold", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-4-bold", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0;
@@ -2153,7 +2153,7 @@
 }
 
 .drp-typography-heading-5 {
-	font: ${getValue(data, ["tokens.css", "base-typography", "headline-5", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-5", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-5", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-5", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "headline-5", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-5", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-5", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-5", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0;
@@ -2162,7 +2162,7 @@
 }
 
 .drp-typography-heading-5-bold {
-	font: ${getValue(data, ["tokens.css", "base-typography", "headline-5-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-5-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-5-bold", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-5-bold", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "headline-5-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-5-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-5-bold", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-5-bold", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0;
@@ -2171,7 +2171,7 @@
 }
 
 .drp-typography-heading-6 {
-	font: ${getValue(data, ["tokens.css", "base-typography", "headline-6", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-6", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-6", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-6", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "headline-6", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-6", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-6", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-6", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0;
@@ -2180,7 +2180,7 @@
 }
 
 .drp-typography-heading-6-bold {
-	font: ${getValue(data, ["tokens.css", "base-typography", "headline-6-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-6-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-6-bold", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-6-bold", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "headline-6-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-6-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-6-bold", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-6-bold", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0;
@@ -2189,7 +2189,7 @@
 }
 
 .drp-typography-display-1 {
-	font: ${getValue(data, ["tokens.css", "base-typography", "display-1", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-1", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-1", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " display-1", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "display-1", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-1", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-1", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " display-1", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0;
@@ -2198,7 +2198,7 @@
 }
 
 .drp-typography-display-1-bold {
-	font: ${getValue(data, ["tokens.css", "base-typography", "display-1-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-1-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-1-bold", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " display-1-bold", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "display-1-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-1-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-1-bold", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " display-1-bold", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0;
@@ -2207,7 +2207,7 @@
 }
 
 .drp-typography-display-2 {
-	font: ${getValue(data, ["tokens.css", "base-typography", "display-2", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-2", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-2", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " display-2", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "display-2", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-2", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-2", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " display-2", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0;
@@ -2216,7 +2216,7 @@
 }
 
 .drp-typography-display-2-bold {
-	font: ${getValue(data, ["tokens.css", "base-typography", "display-2-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-2-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-2-bold", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " display-2-bold", " font-family"])}",
+	font: ${getValue(data, ["tokens.css", "base-typography", "display-2-bold", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-2-bold", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-2-bold", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " display-2-bold", " font-family"])}",
 	sans-serif;
 	text-transform: none;
 	text-indent: 0;
@@ -2246,7 +2246,7 @@
 	}
 
 	.drp-typography-heading-1 {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-1", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-1", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-1", "min-width: 768px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-1", " min-width: 768px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-1", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-1", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-1", "min-width: 768px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-1", " min-width: 768px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-1", "min-width: 768px", "letter-spacing"])}px;
@@ -2254,7 +2254,7 @@
 	}
 
 	.drp-typography-heading-1-bold {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-1-bold", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-1-bold", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-1-bold", "min-width: 768px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-1-bold", " min-width: 768px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-1-bold", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-1-bold", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-1-bold", "min-width: 768px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-1-bold", " min-width: 768px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-1-bold", "min-width: 768px", "letter-spacing"])}px;
@@ -2262,7 +2262,7 @@
 	}
 
 	.drp-typography-heading-2 {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-2", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-2", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-2", "min-width: 768px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-2", " min-width: 768px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-2", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-2", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-2", "min-width: 768px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-2", " min-width: 768px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-2", "min-width: 768px", "letter-spacing"])}px;
@@ -2270,7 +2270,7 @@
 	}
 
 	.drp-typography-heading-2-bold {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-2-bold", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-2-bold", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-2-bold", "min-width: 768px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-2-bold", " min-width: 768px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-2-bold", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-2-bold", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-2-bold", "min-width: 768px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-2-bold", " min-width: 768px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-2-bold", "min-width: 768px", "letter-spacing"])}px;
@@ -2278,7 +2278,7 @@
 	}
 
 	.drp-typography-heading-3 {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-3", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-3", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-3", "min-width: 768px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-3", " min-width: 768px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-3", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-3", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-3", "min-width: 768px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-3", " min-width: 768px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-3", "min-width: 768px", "letter-spacing"])}px;
@@ -2286,7 +2286,7 @@
 	}
 
 	.drp-typography-heading-3-bold {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-3-bold", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-3-bold", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-3-bold", "min-width: 768px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-3-bold", " min-width: 768px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-3-bold", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-3-bold", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-3-bold", "min-width: 768px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-3-bold", " min-width: 768px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-3-bold", "min-width: 768px", "letter-spacing"])}px;
@@ -2294,7 +2294,7 @@
 	}
 
 	.drp-typography-heading-4 {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-4", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-4", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-4", "min-width: 768px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-4", " min-width: 768px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-4", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-4", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-4", "min-width: 768px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-4", " min-width: 768px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-4", "min-width: 768px", "letter-spacing"])}px;
@@ -2302,7 +2302,7 @@
 	}
 
 	.drp-typography-heading-4-bold {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-4-bold", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-4-bold", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-4-bold", "min-width: 768px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-4-bold", " min-width: 768px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-4-bold", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-4-bold", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-4-bold", "min-width: 768px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-4-bold", " min-width: 768px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-4-bold", "min-width: 768px", "letter-spacing"])}px;
@@ -2310,7 +2310,7 @@
 	}
 
 	.drp-typography-heading-5 {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-5", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-5", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-5", "min-width: 768px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-5", " min-width: 768px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-5", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-5", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-5", "min-width: 768px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-5", " min-width: 768px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-5", "min-width: 768px", "letter-spacing"])}px;
@@ -2318,7 +2318,7 @@
 	}
 
 	.drp-typography-heading-5-bold {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-5-bold", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-5-bold", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-5-bold", "min-width: 768px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-5-bold", " min-width: 768px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-5-bold", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-5-bold", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-5-bold", "min-width: 768px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-5-bold", " min-width: 768px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-5-bold", "min-width: 768px", "letter-spacing"])}px;
@@ -2326,7 +2326,7 @@
 	}
 
 	.drp-typography-heading-6 {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-6", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-6", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-6", "min-width: 768px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-6", " min-width: 768px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-6", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-6", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-6", "min-width: 768px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-6", " min-width: 768px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-6", "min-width: 768px", "letter-spacing"])}px;
@@ -2334,7 +2334,7 @@
 	}
 
 	.drp-typography-heading-6-bold {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-6-bold", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-6-bold", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-6-bold", "min-width: 768px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-6-bold", " min-width: 768px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-6-bold", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-6-bold", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-6-bold", "min-width: 768px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-6-bold", " min-width: 768px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-6-bold", "min-width: 768px", "letter-spacing"])}px;
@@ -2342,7 +2342,7 @@
 	}
 
 	.drp-typography-display-1 {
-		font: ${getValue(data, ["tokens.css", "base-typography", "display-1", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-1", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-1", "min-width: 768px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " display-1", " min-width: 768px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "display-1", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-1", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-1", "min-width: 768px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " display-1", " min-width: 768px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "display-1", "min-width: 768px", "letter-spacing"])}px;
@@ -2350,7 +2350,7 @@
 	}
 
 	.drp-typography-display-1-bold {
-		font: ${getValue(data, ["tokens.css", "base-typography", "display-1-bold", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-1-bold", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-1-bold", "min-width: 768px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " display-1-bold", " min-width: 768px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "display-1-bold", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-1-bold", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-1-bold", "min-width: 768px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " display-1-bold", " min-width: 768px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "display-1-bold", "min-width: 768px", "letter-spacing"])}px;
@@ -2358,7 +2358,7 @@
 	}
 
 	.drp-typography-display-2 {
-		font: ${getValue(data, ["tokens.css", "base-typography", "display-2", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-2", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-2", "min-width: 768px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " display-2", " min-width: 768px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "display-2", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-2", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-2", "min-width: 768px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " display-2", " min-width: 768px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "display-2", "min-width: 768px", "letter-spacing"])}px;
@@ -2366,7 +2366,7 @@
 	}
 
 	.drp-typography-display-2-bold {
-		font: ${getValue(data, ["tokens.css", "base-typography", "display-2-bold", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-2-bold", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-2-bold", "min-width: 768px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " display-2-bold", " min-width: 768px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "display-2-bold", "min-width: 768px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-2-bold", "min-width: 768px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-2-bold", "min-width: 768px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " display-2-bold", " min-width: 768px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "display-2-bold", "min-width: 768px", "letter-spacing"])}px;
@@ -2468,7 +2468,7 @@
 	}
 
 	.drp-typography-heading-1 {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-1", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-1", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-1", "min-width: 1025px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-1", " min-width: 1025px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-1", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-1", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-1", "min-width: 1025px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-1", " min-width: 1025px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-1", "min-width: 1025px", "letter-spacing"])}px;
@@ -2476,7 +2476,7 @@
 	}
 
 	.drp-typography-heading-1-bold {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-1-bold", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-1-bold", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-1-bold", "min-width: 1025px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-1-bold", " min-width: 1025px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-1-bold", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-1-bold", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-1-bold", "min-width: 1025px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-1-bold", " min-width: 1025px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-1-bold", "min-width: 1025px", "letter-spacing"])}px;
@@ -2484,7 +2484,7 @@
 	}
 
 	.drp-typography-heading-2 {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-2", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-2", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-2", "min-width: 1025px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-2", " min-width: 1025px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-2", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-2", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-2", "min-width: 1025px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-2", " min-width: 1025px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-2", "min-width: 1025px", "letter-spacing"])}px;
@@ -2492,7 +2492,7 @@
 	}
 
 	.drp-typography-heading-2-bold {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-2-bold", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-2-bold", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-2-bold", "min-width: 1025px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-2-bold", " min-width: 1025px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-2-bold", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-2-bold", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-2-bold", "min-width: 1025px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-2-bold", " min-width: 1025px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-2-bold", "min-width: 1025px", "letter-spacing"])}px;
@@ -2500,7 +2500,7 @@
 	}
 
 	.drp-typography-heading-3 {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-3", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-3", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-3", "min-width: 1025px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-3", " min-width: 1025px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-3", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-3", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-3", "min-width: 1025px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-3", " min-width: 1025px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-3", "min-width: 1025px", "letter-spacing"])}px;
@@ -2508,7 +2508,7 @@
 	}
 
 	.drp-typography-heading-3-bold {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-3-bold", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-3-bold", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-3-bold", "min-width: 1025px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-3-bold", " min-width: 1025px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-3-bold", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-3-bold", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-3-bold", "min-width: 1025px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-3-bold", " min-width: 1025px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-3-bold", "min-width: 1025px", "letter-spacing"])}px;
@@ -2516,7 +2516,7 @@
 	}
 
 	.drp-typography-heading-4 {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-4", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-4", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-4", "min-width: 1025px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-4", " min-width: 1025px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-4", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-4", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-4", "min-width: 1025px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-4", " min-width: 1025px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-4", "min-width: 1025px", "letter-spacing"])}px;
@@ -2524,7 +2524,7 @@
 	}
 
 	.drp-typography-heading-4-bold {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-4-bold", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-4-bold", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-4-bold", "min-width: 1025px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-4-bold", " min-width: 1025px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-4-bold", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-4-bold", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-4-bold", "min-width: 1025px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-4-bold", " min-width: 1025px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-4-bold", "min-width: 1025px", "letter-spacing"])}px;
@@ -2532,7 +2532,7 @@
 	}
 
 	.drp-typography-heading-5 {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-5", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-5", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-5", "min-width: 1025px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-5", " min-width: 1025px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-5", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-5", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-5", "min-width: 1025px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-5", " min-width: 1025px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-5", "min-width: 1025px", "letter-spacing"])}px;
@@ -2540,7 +2540,7 @@
 	}
 
 	.drp-typography-heading-5-bold {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-5-bold", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-5-bold", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-5-bold", "min-width: 1025px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-5-bold", " min-width: 1025px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-5-bold", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-5-bold", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-5-bold", "min-width: 1025px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-5-bold", " min-width: 1025px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-5-bold", "min-width: 1025px", "letter-spacing"])}px;
@@ -2548,7 +2548,7 @@
 	}
 
 	.drp-typography-heading-6 {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-6", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-6", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-6", "min-width: 1025px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-6", " min-width: 1025px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-6", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-6", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-6", "min-width: 1025px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-6", " min-width: 1025px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-6", "min-width: 1025px", "letter-spacing"])}px;
@@ -2556,7 +2556,7 @@
 	}
 
 	.drp-typography-heading-6-bold {
-		font: ${getValue(data, ["tokens.css", "base-typography", "headline-6-bold", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-6-bold", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-6-bold", "min-width: 1025px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " headline-6-bold", " min-width: 1025px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "headline-6-bold", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "headline-6-bold", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "headline-6-bold", "min-width: 1025px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " headline-6-bold", " min-width: 1025px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "headline-6-bold", "min-width: 1025px", "letter-spacing"])}px;
@@ -2564,7 +2564,7 @@
 	}
 
 	.drp-typography-display-1 {
-		font: ${getValue(data, ["tokens.css", "base-typography", "display-1", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-1", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-1", "min-width: 1025px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " display-1", " min-width: 1025px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "display-1", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-1", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-1", "min-width: 1025px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " display-1", " min-width: 1025px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "display-1", "min-width: 1025px", "letter-spacing"])}px;
@@ -2572,7 +2572,7 @@
 	}
 
 	.drp-typography-display-1-bold {
-		font: ${getValue(data, ["tokens.css", "base-typography", "display-1-bold", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-1-bold", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-1-bold", "min-width: 1025px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " display-1-bold", " min-width: 1025px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "display-1-bold", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-1-bold", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-1-bold", "min-width: 1025px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " display-1-bold", " min-width: 1025px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "display-1-bold", "min-width: 1025px", "letter-spacing"])}px;
@@ -2580,7 +2580,7 @@
 	}
 
 	.drp-typography-display-2 {
-		font: ${getValue(data, ["tokens.css", "base-typography", "display-2", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-2", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-2", "min-width: 1025px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " display-2", " min-width: 1025px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "display-2", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-2", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-2", "min-width: 1025px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " display-2", " min-width: 1025px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "display-2", "min-width: 1025px", "letter-spacing"])}px;
@@ -2588,7 +2588,7 @@
 	}
 
 	.drp-typography-display-2-bold {
-		font: ${getValue(data, ["tokens.css", "base-typography", "display-2-bold", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-2-bold", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-2-bold", "min-width: 1025px", "line-height"])}px "${getValue(data, [" tokens.css", " base-typography", " display-2-bold", " min-width: 1025px", " font-family"])}", sans-serif;
+		font: ${getValue(data, ["tokens.css", "base-typography", "display-2-bold", "min-width: 1025px", "font-weight-dev"])} ${getValue(data, ["tokens.css", "base-typography", "display-2-bold", "min-width: 1025px", "font-size"])}px/${getValue(data, ["tokens.css", "base-typography", "display-2-bold", "min-width: 1025px", "line-height"])}px "${getValue(data, ["tokens.css", " base-typography", " display-2-bold", " min-width: 1025px", " font-family"])}", sans-serif;
 		text-transform: none;
 		text-indent: 0px;
 		letter-spacing: ${getValue(data, ["tokens.css", "base-typography", "display-2-bold", "min-width: 1025px", "letter-spacing"])}px;
@@ -4896,18 +4896,12 @@ body {
 	--aec-font-weight-medium: 500;
 	--aec-font-weight-semi-bold: 600;
 	--aec-font-weight-bold: 700;
-	--aec-font-family-body: "${getValue(data, [" tokens.css", " primitive-typography", " font-family", " body"])}",
-	sans-serif;
-	--aec-font-family-body-alternative: "${getValue(data, [" tokens.css", " primitive-typography", " font-family", " body-alternative"])}",
-	sans-serif;
-	--aec-font-family-heading: "${getValue(data, [" tokens.css", " primitive-typography", " font-family", " headline"])}",
-	sans-serif;
-	--aec-font-family-heading-alternative: "${getValue(data, [" tokens.css", " primitive-typography", " font-family", " headline-alternative"])}",
-	sans-serif;
-	--aec-font-family-display: "${getValue(data, [" tokens.css", " primitive-typography", " font-family", " display"])}",
-	sans-serif;
-	--aec-font-family-button: "${getValue(data, [" tokens.css", " primitive-typography", " font-family", " body"])}",
-	sans-serif;
+	--aec-font-family-body: "${getValue(data, ["tokens.css", " primitive-typography", " font-family", " body"])}", sans-serif;
+	--aec-font-family-body-alternative: "${getValue(data, ["tokens.css", " primitive-typography", " font-family", " body-alternative"])}", sans-serif;
+	--aec-font-family-heading: "${getValue(data, ["tokens.css", " primitive-typography", " font-family", " headline"])}", sans-serif;
+	--aec-font-family-heading-alternative: "${getValue(data, ["tokens.css", " primitive-typography", " font-family", " headline-alternative"])}", sans-serif;
+	--aec-font-family-display: "${getValue(data, ["tokens.css", " primitive-typography", " font-family", " display"])}", sans-serif;
+	--aec-font-family-button: "${getValue(data, ["tokens.css", " primitive-typography", " font-family", " body"])}", sans-serif;
 	--aec-letter-spacing-0: 0px;
 	--aec-paragraph-spacing-0: 0;
 	--aec-paragraph-spacing-100: 8;
