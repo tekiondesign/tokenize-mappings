@@ -1,18 +1,8 @@
 [
   {
-    "name": "GM DRP Test",
+    "name": "Release-2025.12.1.0",
     "type": "css",
-    "path": "https://raw.githubusercontent.com/tekiondesign/tokenize-mappings/refs/heads/main/templates/drp/prod/css.template"
-  },
-  {
-    "name": "GM DRP Stage",
-    "type": "css",
-    "path": "https://raw.githubusercontent.com/tekiondesign/tokenize-mappings/refs/heads/main/templates/drp/non-prod/css.template"
-  },
-  {
-    "name": "GM DRP Pre-Prod",
-    "type": "css",
-    "path": "https://raw.githubusercontent.com/tekiondesign/tokenize-mappings/refs/heads/main/templates/drp/stage/css.template"
+    "path": "https://raw.githubusercontent.com/tekiondesign/tokenize-mappings/refs/heads/main/templates/drp/Release-2025.12.1.0/css.template"
   },
   {
     "name": "AEC Studio JSON",

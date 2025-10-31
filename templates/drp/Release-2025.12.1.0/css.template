@@ -4971,6 +4971,7 @@ body {
 	--aec-border-radius-default: ${getValue(data, ["semantics", "border", "radius-default"])}px;
 	--aec-border-radius-rounded-rect: ${getValue(data, ["semantics", "border", "radius-rounded-rect"])}px;
 	--aec-border-radius-xl: ${getValue(data, ["semantics", "border", "radius-xl"])}px;
+	--aec-border-radius-xl: ${getValue(data, ["semantics", "border", "radius-xxl"])}px;
 	--aec-border-radius-rounded: ${getValue(data, ["semantics", "border", "radius-rounded"])}px;
 	--aec-border-radius-focus: ${getValue(data, ["semantics", "border", "radius-focus"])}px;
 	--aec-border-width-10: ${getValue(data, ["semantics", "border", "width-10"])}px;
