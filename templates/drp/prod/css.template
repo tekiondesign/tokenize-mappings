@@ -1,6 +1,0 @@
-.test-class-prod {
-	height: ${getValue(data, ["tokens.css", "accordion-container-bg", "height"])};
-	padding: ${getValue(data, ["tokens.css", "accordion-container-bg", "padding-top"])}px ${getValue(data, ["tokens.css", "accordion-container-bg", "padding-right"])}px ${getValue(data, ["tokens.css", "accordion-container-bg", "padding-bottom"])}px ${getValue(data, ["tokens.css", "accordion-container-bg", "padding-left"])}px;
-	border-radius: ${getValue(data, ["tokens.css", "accordion-container-bg", "border-top-left-radius"])}px ${getValue(data, ["tokens.css", "accordion-container-bg", "border-top-right-radius"])}px ${getValue(data, ["tokens.css", "accordion-container-bg", "border-bottom-right-radius"])}px ${getValue(data, ["tokens.css", "accordion-container-bg", "border-bottom-left-radius"])}px;
-	border-bottom-width: ${getValue(data, ["tokens.css", "accordion-container-bg", "border-bottom-width"])}px;
-}
