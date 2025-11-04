@@ -3631,6 +3631,10 @@
 	border-radius: ${getValue(data, ["tokens.css", "card", "border-radius"])}px;
 }
 
+.drp-calendar-selectable-rounded {
+	border-radius: ${getValue(data, ["tokens.css", "calendar-selectable", "border-radius"])}px;
+}
+
 body {
 	--aec-accordion-color-bg-default: ${getValue(data, ["tokens.css", "body", "accordion", "color-bg-default"])};
 	--aec-accordion-color-bg-hover: ${getValue(data, ["tokens.css", "body", "accordion", "color-bg-hover"])};
