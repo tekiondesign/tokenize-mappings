@@ -5153,7 +5153,7 @@ body {
 	--aec-overlay-color-icon-bg-disabled: ${getValue(data, ["tokens.css", "overlay", "color-icon-bg-disabled"])};
 	--aec-overlay-color-icon-hover: ${getValue(data, ["tokens.css", "overlay", "color-icon-hover"])};
 	--aec-overlay-color-icon-bg-hover: ${getValue(data, ["tokens.css", "overlay", "color-icon-bg-hover"])};
-	--aec-calendar-selectable-border-radius: ${getValue(data, ["tokens.css", "calendar-selectable", "border-radius"])};
+	--aec-calendar-selectable-border-radius: ${getValue(data, ["tokens.css", "calendar-selectable", "border-radius"])}px;
 }
 
 @media (min-width: 768px) {
