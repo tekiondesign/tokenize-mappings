@@ -18,5 +18,10 @@
     "name": "Release-2026.01.1.0",
     "type": "css",
     "path": "https://raw.githubusercontent.com/tekiondesign/tokenize-mappings/refs/heads/main/templates/drp/Release-2026.01.1.0/css.template"
+  },
+  {
+    "name": "Release-2026.02.1.0",
+    "type": "css",
+    "path": "https://raw.githubusercontent.com/tekiondesign/tokenize-mappings/refs/heads/main/templates/drp/Release-2026.02.1.0/css.template"
   }
 ]
