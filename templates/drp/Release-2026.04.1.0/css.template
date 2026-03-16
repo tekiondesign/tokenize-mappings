@@ -3640,7 +3640,7 @@
 }
 
 .drp-border-radius-none {
-  border-radius: ${getValue(data, ["tokens.css", "border-radius-none"])}px;
+  border-radius: ${getValue(data, ["tokens.css", "border-radius", "none"])}px;
 }
 
 body {
