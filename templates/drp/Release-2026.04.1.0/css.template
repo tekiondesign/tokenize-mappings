@@ -3639,6 +3639,10 @@
   background-color: ${getValue(data, ["tokens.css", "filter-sticky", "mobile", "background"])};
 }
 
+.drp-border-radius-none {
+  border-radius: ${getValue(data, ["tokens.css", "border-radius-none"])}px;
+}
+
 body {
 	--aec-accordion-color-bg-default: ${getValue(data, ["tokens.css", "body", "accordion", "color-bg-default"])};
 	--aec-accordion-color-bg-hover: ${getValue(data, ["tokens.css", "body", "accordion", "color-bg-hover"])};
